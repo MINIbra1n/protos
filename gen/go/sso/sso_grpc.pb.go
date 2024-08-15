@@ -4,7 +4,7 @@
 // - protoc             v5.27.3
 // source: sso/sso.proto
 
-package tuzov_sso_v1_ssov1
+package ssov1
 
 import (
 	context "context"
